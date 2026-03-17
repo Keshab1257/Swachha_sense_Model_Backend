@@ -1,6 +1,6 @@
 # Swachha_sense_Model_Backend
 
-.
+
 
 🚀 How to Install all the needed libraries: 
 "pip install -r requirements.txt"
